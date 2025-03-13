@@ -5,3 +5,5 @@ version = 4
 [[package]]
 name = "ceasa"
 version = "0.1.0"
+description = "A small lib for Rust"
+lisence = "https://github.com/Polokalap/Ceasa/blob/main/LICENSE.md"
