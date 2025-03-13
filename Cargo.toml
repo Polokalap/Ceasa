@@ -2,5 +2,7 @@
 name = "ceasa"
 version = "0.1.0"
 edition = "2024"
+description = "A small lib for Rust"
+license = "https://github.com/Polokalap/Ceasa/blob/main/LICENSE.md"
 
 [dependencies]
