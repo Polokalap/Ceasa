@@ -6,3 +6,4 @@ description = "A small lib for Rust"
 license = "MIT"
 
 [dependencies]
+rand = "0.9.0"
