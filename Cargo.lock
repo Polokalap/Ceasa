@@ -3,5 +3,5 @@
 version = 4
 
 [[package]]
-name = "Ceasa"
+name = "ceasa"
 version = "0.1.0"
